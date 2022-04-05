@@ -18,7 +18,7 @@ int main()
     int min, max;
     min = max = p[0];
     int sum = 0;
-    for(int i = 1; i < MAX; i++);
+    for(int i = 1; i < MAX; i++)
     {
         sum += p[i];
         
